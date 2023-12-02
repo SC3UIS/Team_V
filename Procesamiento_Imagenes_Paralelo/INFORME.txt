@@ -1,0 +1,25 @@
+Tiempo convertToGrayManual_4K: 172 ms
+Tiempo equalizeHistogramManual_4K: 70 ms
+Tiempo detectEdgesSobelNormalizedManual_4K: 625 ms
+
+Tiempo convertToGrayOPENMP_4K: 161 ms
+Tiempo equalizeHistogramOPENMP_4K: 57 ms
+Tiempo detectEdgesSobelNormalizedOPENMP_4K: 617 ms
+
+
+Tiempo convertToGrayManual_2K: 82 ms
+Tiempo equalizeHistogramManual_2K: 29 ms
+Tiempo detectEdgesSobelNormalizedManual_2K: 287 ms
+
+Tiempo convertToGrayOPENMP_2K: 78 ms
+Tiempo equalizeHistogramOPENMP_2K: 27 ms
+Tiempo detectEdgesSobelNormalizedOPENMP_2K: 292 ms
+
+
+Tiempo convertToGrayManual_HD: 44 ms
+Tiempo equalizeHistogramManual_HD: 16 ms
+Tiempo detectEdgesSobelNormalizedManual_HD: 188 ms
+
+Tiempo convertToGrayOPENMP_HD: 46 ms
+Tiempo equalizeHistogramOPENMP_HD: 14 ms
+Tiempo detectEdgesSobelNormalizedOPENMP_HD: 166 ms
